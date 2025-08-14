@@ -19,7 +19,7 @@ Layout moderno e responsivo com efeitos de transição
 Tecnologias Utilizadas
 
 HTML5<br>
-CSS3
+CSS3<br>
 JavaScript (ES6+)<br>
 Font Awesome para ícones
 
