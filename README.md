@@ -9,7 +9,7 @@ O To-Do List é uma aplicação web interativa para gerenciar tarefas diárias. 
 
 Funcionalidades
 
-Adicionar novas tarefas <br>
+Adicionar novas tarefas<br>
 Marcar tarefas como concluídas<br>
 Excluir tarefas<br>
 Filtrar tarefas: Todas / Pendentes / Concluídas<br>
@@ -27,5 +27,5 @@ Como Usar<br>
 
 Clone o repositório:<br>
 git clone https://github.com/Bruna-Melnik/to-do-list.git <br>
-Abra o arquivo index.html no navegador. <br>
+Abra o arquivo index.html no navegador.<br>
 Comece a adicionar suas tarefas!
