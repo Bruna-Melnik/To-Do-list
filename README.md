@@ -9,7 +9,6 @@ O To-Do List é uma aplicação web interativa para gerenciar tarefas diárias. 
 
 Funcionalidades
 
-
 Marcar tarefas como concluídas<br>
 Excluir tarefas<br>
 Filtrar tarefas: Todas / Pendentes / Concluídas<br>
