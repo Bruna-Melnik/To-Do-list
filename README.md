@@ -1,33 +1,31 @@
-# To-Do List
+<img width="1365" height="607" alt="image" src="https://github.com/user-attachments/assets/3912bcba-20f9-444d-98d2-04275489a3dc" /># To-Do List
 
-<img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/a858a175-98ea-4242-ade2-4902e66ba682" />
+<img width="1365" height="607" alt="image" src="https://github.com/user-attachments/assets/a7fe2a19-c51b-47eb-8e5c-80420043c1b3" />
 
 Descrição do Projeto
 
-O To-Do List é uma aplicação web interativa para gerenciar tarefas diárias.
-Permite adicionar, concluir, excluir e filtrar tarefas, mantendo a persistência de dados usando localStorage.
-É um ótimo exemplo de aplicação front-end usando HTML, CSS e JavaScript puro.
+O To-Do List é uma aplicação web interativa para gerenciar tarefas diárias. Permite adicionar, concluir, excluir e filtrar tarefas, mantendo a persistência de dados usando localStorage. É um ótimo exemplo de aplicação front-end usando HTML, CSS e JavaScript puro.
 
 
 Funcionalidades
 
-Adicionar novas tarefas
-Marcar tarefas como concluídas
-Excluir tarefas
-Filtrar tarefas: Todas / Pendentes / Concluídas
-Persistência local usando localStorage para manter as tarefas mesmo após fechar o navegador
+Adicionar novas tarefas <br>
+Marcar tarefas como concluídas<br>
+Excluir tarefas<br>
+Filtrar tarefas: Todas / Pendentes / Concluídas<br>
+Persistência local usando localStorage para manter as tarefas mesmo após fechar o navegador<br>
 Layout moderno e responsivo com efeitos de transição
 
 Tecnologias Utilizadas
 
-HTML5
-CSS3
-JavaScript (ES6+)
+HTML5<br>
+CSS3<br>
+JavaScript (ES6+)<br>
 Font Awesome para ícones
 
 Como Usar
 
-Clone o repositório:
-git clone https://github.com/Bruna-Melnik/to-do-list.git
-Abra o arquivo index.html no navegador.
+Clone o repositório:<br>
+git clone https://github.com/Bruna-Melnik/to-do-list.git <br>
+Abra o arquivo index.html no navegador. <br>
 Comece a adicionar suas tarefas!
