@@ -1,4 +1,4 @@
-<img width="1365" height="607" alt="image" src="https://github.com/user-attachments/assets/3912bcba-20f9-444d-98d2-04275489a3dc" /># To-Do List
+# To-Do List
 
 <img width="1365" height="607" alt="image" src="https://github.com/user-attachments/assets/a7fe2a19-c51b-47eb-8e5c-80420043c1b3" />
 
@@ -19,7 +19,7 @@ Layout moderno e responsivo com efeitos de transição
 Tecnologias Utilizadas
 
 HTML5<br>
-CSS3<br>
+CSS3
 JavaScript (ES6+)<br>
 Font Awesome para ícones
 
